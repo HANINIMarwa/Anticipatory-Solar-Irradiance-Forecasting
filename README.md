@@ -58,5 +58,5 @@ Open any notebook in `colab_all_figures/` (Google Colab or Jupyter) and run the 
 <!-- TODO (Marwa): add the training / feature-engineering scripts or notebooks so the full pipeline can be reproduced, not only the figures. -->
 
 ## Author
-
+Reda JELFA
 Marwa Hanini · [LinkedIn](https://linkedin.com/in/marwa-hanini-9421663b5) · [GitHub](https://github.com/HANINIMarwa)
